@@ -22,7 +22,7 @@ const ProjectDetail = () => {
       title: "💼 Portfolio Site",
       description:
         "A professional single-page React portfolio featuring routing, component-based design, and clean UI.",
-      link: "",
+      link: "https://portfolio-green-two-19.vercel.app/",
     },
   };
 
