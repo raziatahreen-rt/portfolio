@@ -1,0 +1,14 @@
+.visit-link {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  font-weight: 500;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.visit-link:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,9 @@
+.contact-section {
+    background: linear-gradient(to right, #e0f7fa, #ffffff);
+    text-align: center;
+  }
+  
+  .contact-section a {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,21 @@
+.fancy-header {
+    background: linear-gradient(120deg, #e0f7fa, #ffffff);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 2px solid #a0d8ef;
+  }
+  
+  .subtitle {
+    font-size: 1.4rem;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .intro {
+    font-size: 1.1rem;
+    margin-top: 15px;
+    line-height: 1.6;
+  }
+.classA{
+    text-align: left;
+}  
